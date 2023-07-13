@@ -77,4 +77,4 @@ Contributions to this project are welcome. If you encounter any issues or have s
 
 ## Authors:
 Ashutosh Mittal
-@AashutoshMitta9
+[@AashutoshMitta9] (https://twitter.com/AashutoshMitta9)
