@@ -1,4 +1,5 @@
-#Solidity Token Contract::
+# Solidity Token Contract::
+
 This repository contains a Solidity contract for a basic token implementation. The contract allows minting and burning tokens, and provides public access to token-related information.
 
 License::
